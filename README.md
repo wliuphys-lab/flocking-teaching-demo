@@ -1,2 +1,1 @@
-# ideal-gas-to-flocking-ejp
-Python simulations and teaching materials for an undergraduate physics module on emergence and flocking.
+Python simulations and teaching materials for undergraduate physics instruction on emergence, flocking, and nonequilibrium collective motion.
