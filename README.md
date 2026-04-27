@@ -1,27 +1,30 @@
 # Flocking Teaching Demo
 
-This repository contains Python scripts and visualization materials for the article:
+Python simulations and teaching materials accompanying the article:
 
-"From Ideal Gases to Flocking: An Emergence-Oriented Teaching Sequence for Undergraduate Physics"
+From Ideal Gases to Flocking: An Emergence-Oriented Teaching Sequence for Undergraduate Physics
 
 ## Contents
 
-- `vicsek_teaching_demo.py`  
-  Simulation of a Vicsek-type flocking model.
+- vicsek_teaching_demo.py  
+  Minimal flocking simulation.
 
-- `flocking_snapshots.png`  
-  Ordered vs disordered states.
+- flocking_snapshots.png  
+  Ordered and disordered states.
 
-- `flocking_emergence.gif`  
-  Emergence of collective motion from random initial conditions.
+- flocking_emergence.gif  
+  Emergence process near the transition regime.
 
 ## Requirements
 
-- Python 3.x
-- numpy
-- matplotlib
+Python 3.x  
+numpy  
+matplotlib
 
 ## Run
 
-```bash
 python vicsek_teaching_demo.py
+
+## Purpose
+
+Designed for undergraduate teaching on statistical physics, emergence, and nonequilibrium collective motion.
